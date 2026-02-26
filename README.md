@@ -17,4 +17,4 @@ I also performed the same commands using SQL [here].
 
 In order to pinpoint which products were performing poorly and which were performing well, we first needed to decide on key metrics for evaluation.
 We decided to use Close Percentage as well as total sales in combination because this allowed us to find which products had the greatest room for growth.
-<img width="802" height="414" alt="image" src="https://github.com/user-attachments/assets/22e7966f-2afe-4066-93ad-8f2ad66704e2" />
+
