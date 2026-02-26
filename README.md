@@ -27,6 +27,12 @@ close percentage, receives only a small fraction of the sales of the MG Advanced
 Now that we have identified the most important asset, we need to understand why the MG Advanced is underperforming. Unfortunately, we don't have access to things like customer satisfaction scores, so instead
 we will look at surrounding factors to see if there is a correlation to the MG Advanced's underperformance.
 
-The first factor we will look at is time.
+The first factor we will look at is time, to see if there was a time period where the MG Advanced sold worse. This may allow us to identify the factors that led to its underperformance.
 
 <img src="/assets/graph2.png" width="600">
+
+However, we see that the MG Advanced has remained relatively steady in sales throughout the past year, meaning we can cross time off our list of potential factors.
+
+The next factor we will look at is region. With the variable regional_office, we can examine the close percentage of the MG Advanced for each of the three offices, Central, East, and West.
+
+<img src="/assets/graph3.png" width="600">
