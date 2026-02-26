@@ -36,3 +36,14 @@ However, we see that the MG Advanced has remained relatively steady in sales thr
 The next factor we will look at is region. With the variable regional_office, we can examine the close percentage of the MG Advanced for each of the three offices, Central, East, and West.
 
 <img src="/assets/graph3.png" width="600">
+
+We see that the Central region seems to struggle much more at closing deals with the MG Advanced than the other two regions. This is a useful insight that we will want to investigate further.
+
+For the purposes of this project, this is as far as the analysis will go for now. If we were to continue the analysis, two options we could choose would be to examine the manager variable from the sales_team
+table, and the account variable from the sales_pipeline and accounts tables. Using these variables, we could find out if the struggle to close deals applies to the Central region generally, or if it's to a specific manager or account within the Central region.
+
+Lastly, we analyze the top salesmen in the company for the MG Advanced to see if there is anything we can learn from their selling.
+
+<img src="/assets/graph4.png" width="600">
+
+We recommend a further investigation or analysis of Hayden Neloms sales record to see what can be learned from him that can be applied company-wide, or specifically to the Central region.
