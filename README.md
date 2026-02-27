@@ -14,6 +14,10 @@ I also performed the same commands using SQL [here].
 The data was cleaned to fix text inconsistencies as well as create several new columns to be used in calculation.
 
 <img src="/assets/entity_diagram.png" width="500">
+
+The data is found in four tables titled accounts, sales_pipeline, products, and sales_teams.
+
+Data cleaning was required to standardize names and clean up columns. The data was also checked for missing values and duplicates.
 # Executive Summary
 
 In order to pinpoint which MG products were performing poorly and which were performing well, we first needed to decide on key metrics for evaluation.
